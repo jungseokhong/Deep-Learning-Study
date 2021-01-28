@@ -7,6 +7,7 @@ This repo contains list of papers that I read on deep learning in general. It is
 - [papername]() [[Notes]()]<kbd>Test 2020</kbd>
 
 |Paper|Notes|Date|Venue|Code|
+|---|---|---|---|---|
 |[papername]()|[Note]()| _Jan 28 2021_ | Test 2020 | [Code]()|
 
 ## Papers to Read
