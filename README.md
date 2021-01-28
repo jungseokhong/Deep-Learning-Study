@@ -13,7 +13,13 @@ This repo contains list of papers that I read on deep learning in general. It is
 ## Papers to Read
  
 ### Deep Learning in general
-- [paper](link)
+
+### Computer vision survey
+- [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf)
+
+### Color restoration
+- [Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Distort-and-Recover_Color_Enhancement_CVPR_2018_paper.pdf)
+
 ### 2D object detection and Segmentation
 - [paper](link)
 ### Pose estimation
