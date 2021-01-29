@@ -24,3 +24,24 @@ This repo contains list of papers that I read on deep learning in general. It is
 - [paper](link)
 ### Pose estimation
 - [paper](link)
+
+## Robotics Journals
+
+### IEEE Transactions on Robotics (TRO)
+
+### The International Journal of Robotics Research (IJRR)
+
+### Robotics and Autonomous Systems	(RAS)
+
+### Journal of Field Robotics	(JFR)
+
+### IEEE Robotics & Automation Magazine	(RA-M)
+
+### Autonomous Robots (AuRO)
+
+### IEEE Robotics and Automation Letters (RA-L)
+
+
+
+
+
