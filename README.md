@@ -7,6 +7,7 @@ This repo contains list of papers that I read on deep learning in general. It is
 
 
 ## 2021-02 (1)
+|Paper|Notes|Date|Venue|Code|
 |---|---|---|---|---|
 |[Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)|[Note]()| _Feb 08 2021_ | TPAMI 2020
  | [Code]()|
