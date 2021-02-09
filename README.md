@@ -3,12 +3,18 @@ This repo contains list of papers that I read on deep learning in general. It is
 
 **Goal of 2021 as of Jan 28th 2021: review 3 papers a week, 1 github repo a month**
 
-## 2021-01 ()
-- [papername]() [[Notes]()]<kbd>Test 2020</kbd>
 
+
+
+## 2021-02 (1)
+|---|---|---|---|---|
+|[Self-supervised Visual Feature Learning with Deep Neural Networks: A Survey](https://arxiv.org/abs/1902.06162)|[Note]()| _Feb 08 2021_ | TPAMI 2020
+ | [Code]()|
+
+## 2021-01 (1)
 |Paper|Notes|Date|Venue|Code|
 |---|---|---|---|---|
-|[papername]()|[Note]()| _Jan 28 2021_ | Test 2020 | [Code]()|
+|[Distort-and-Recover: Color Enhancement using Deep Reinforcement Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Park_Distort-and-Recover_Color_Enhancement_CVPR_2018_paper.pdf)|[Note]()| _Jan 28 2021_ | CVPR 2020 | [Code]()|
 
 ## Papers to Read
  
