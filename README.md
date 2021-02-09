@@ -28,18 +28,31 @@ This repo contains list of papers that I read on deep learning in general. It is
 ## Robotics Journals
 
 ### IEEE Transactions on Robotics (TRO)
-
 ### The International Journal of Robotics Research (IJRR)
-
-### Robotics and Autonomous Systems	(RAS)
-
 ### Journal of Field Robotics	(JFR)
-
-### IEEE Robotics & Automation Magazine	(RA-M)
-
 ### Autonomous Robots (AuRO)
-
 ### IEEE Robotics and Automation Letters (RA-L)
+### IEEE Robotics & Automation Magazine	(RA-M)
+### Robotics and Autonomous Systems	(RAS)
+### JAIR
+
+## Conferences
+### ICRA
+### IROS
+### RSS
+### RSS
+### NeuRIPS
+### ICCV
+### ECCV
+### CVPR
+### ICLR
+### ICML
+### IJCAI
+
+
+
+
+
 
 
 
