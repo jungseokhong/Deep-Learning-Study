@@ -19,6 +19,19 @@ This repo contains list of papers that I read on deep learning in general. It is
 ## Papers to Read
  
 ### Deep Learning in general
+- [Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression](https://arxiv.org/pdf/1911.08287.pdf)
+- [On Network Design Spaces for Visual Recognition](https://arxiv.org/pdf/1905.13214.pdf)
+- [Visualization of Convolutional Neural Networks for Monocular Depth Estimation](https://arxiv.org/pdf/1904.03380.pdf)
+- [SAFENet: Self-Supervised Monocular Depth Estimation with Semantic-Aware Feature Extraction](https://arxiv.org/pdf/2010.02893.pdf)
+- [Self-Supervised Scene De-occlusion](https://arxiv.org/pdf/2004.02788.pdf)
+- [Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/pdf/1712.04440.pdf)
+- [Learning Universal Shape Dictionary for Realtime Instance Segmentation](https://arxiv.org/pdf/2012.01050.pdf)
+- [End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/pdf/2011.14503.pdf)
+- [Rethinking Classification and Localization for Object Detection](https://arxiv.org/pdf/1904.06493.pdf)
+- [ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation](https://arxiv.org/pdf/2012.05258.pdf)
+- [1st Place Solutions for OpenImage2019 - Object Detection and Instance Segmentation](https://arxiv.org/pdf/2003.07557.pdf)
+- [3D Object Detection with Pointformer](https://arxiv.org/pdf/2012.11409.pdf)
+
 
 ### Computer vision survey
 - [Transformers in Vision: A Survey](https://arxiv.org/pdf/2101.01169.pdf)
